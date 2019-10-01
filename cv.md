@@ -1,10 +1,11 @@
 # HI
-My name is Valentyn Tymofiiv
+My name is **Valentyn Tymofiiv**
 
 ## Contacts
 **Mail:** kilavki@gmail.com <br>
 **Telegram:** @Kilavki
 
+## Goal
 **MY GOAL** is to become a Full stack web developer. Once I had to deal with a company website. I had no experience, and I went to the courses. Since then I fell in love with the web! For me, it has become something magical. I am constantly learning new things. I do not stop there, but I do not jump on topics.
 
 ## Skills
@@ -56,19 +57,18 @@ finally
 ````
 
 ## References
-Here are some links to my work
+Here are some links to my work<br>
 [My site](#)<br>
-[Project Miami](#)
-[Project Skinalli](#)
+[Project Miami](#)<br>
+[Project Skinalli](#)<br>
 
 ## Education
-#### **Institute of Design of Ukraine**<br>
-*Course Design and Layout*<br>
-**1998**
+**Institute of Design of Ukraine**<br>
+*Course "Design and Layout"*<br>
 
 **Courses "Contact"**<br>
-*Web Designer*
-**2009**
+*Web Designer*<br>
+
 
 ## Languages
 **English:** intermediate
