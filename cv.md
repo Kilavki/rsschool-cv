@@ -6,8 +6,9 @@ My name is **Valentyn Tymofiiv**
 **Telegram:** @Kilavki
 
 ## Goal
-**MY GOAL** is to become a Full stack web developer.<br>
-> Once I had to deal with a company website. I had no experience, and I went to the courses. Since then I fell in love with the web! For me, it has become something magical. I am constantly learning new things. I do not stop there, but I do not jump on topics.
+**My goal** is to become a Full stack web developer.<br>
+> Once I had to deal with a company website. I had no experience, and I went to the courses. Since then I fell in love with the web! <br>
+> For me, it has become something magical. I am constantly learning new things. I do not stop there, but I do not jump on topics.
 
 ## Skills
 * HTML, CSS, JavaScript, jQuery;
