@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
+body {
+	font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight: 400;
+	color: #24292e;
+	background-color: #f5f5f5;
+}
+
+.main-wrapper {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	max-width: 1024px;
+	min-width: 320px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 15px;
+	background-color: #fff;
+	box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.4);
+}
