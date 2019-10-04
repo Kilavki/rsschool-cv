@@ -61,6 +61,51 @@
 			</ul>
 		</section>
 
+		<section class="section code-examples">
+			<h2 class="section-h2">Code Examples</h2>
+			<div class="code__block">
+				<code>
+						{
+							os = new DataOutputStream (
+								new BufferedOutputStream (
+									new FileOutputStream ("log.txt")));
+						}
+						catch (Exception ex)
+						{
+							System.out.println (ex.toString ());
+						}
+				</code>
+			</div>
+			<p>or</p>
+			<div class="code__block">
+					<code>
+							try
+							{
+								while (true)
+								{
+									. . .
+								}
+							}
+							catch (Exception ex)
+							{
+								System.out.println (ex.toString ());
+							}
+							finally
+							{
+								try
+								{
+									System.out.println ("close");
+									os.close ();
+								}
+								catch (Exception ex)
+								{
+									System.out.println (ex.toString ());
+								}
+							}
+					</code>
+				</div>
+		</section>
+
 	
 	
 	
