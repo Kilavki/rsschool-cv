@@ -65,54 +65,62 @@
 			<h2 class="section-h2">Code Examples</h2>
 			<div class="code-block">
 				<code>
-						{
-							os = new DataOutputStream (
-								new BufferedOutputStream (
-									new FileOutputStream ("log.txt")));
-						}
-						catch (Exception ex)
-						{
-							System.out.println (ex.toString ());
-						}
-				</code>
-			</div>
-			<p>or</p>
-			<div class="code-block">
-					<code>
-							try
-							{
-								while (true)
 								{
-									. . .
-								}
-							}
-							catch (Exception ex)
-							{
-								System.out.println (ex.toString ());
-							}
-							finally
-							{
-								try
-								{
-									System.out.println ("close");
-									os.close ();
+									os = new DataOutputStream (
+										new BufferedOutputStream (
+											new FileOutputStream ("log.txt")));
 								}
 								catch (Exception ex)
 								{
 									System.out.println (ex.toString ());
 								}
-							}
-					</code>
-				</div>
+						</code>
+			</div>
+			<p>or</p>
+			<div class="code-block">
+				<code>
+									try
+									{
+										while (true)
+										{
+											. . .
+										}
+									}
+									catch (Exception ex)
+									{
+										System.out.println (ex.toString ());
+									}
+									finally
+									{
+										try
+										{
+											System.out.println ("close");
+											os.close ();
+										}
+										catch (Exception ex)
+										{
+											System.out.println (ex.toString ());
+										}
+									}
+							</code>
+			</div>
 		</section>
 
 		<section class="section references">
-				<h2 class="section-h2">References</h2>
-				<p>Here are some links to my work</p>
-				<a href="#" class="references-link">My site</a>
-				<a href="#" class="references-link">Project Miami</a>
-				<a href="#" class="references-link">Project Skinalli</a>
-			</section>
+			<h2 class="section-h2">References</h2>
+			<p>Here are some links to my work</p>
+			<a href="#" class="references-link">My site</a>
+			<a href="#" class="references-link">Project Miami</a>
+			<a href="#" class="references-link">Project Skinalli</a>
+		</section>
+
+		<section class="section education">
+			<h2 class="section-h2">Education</h2>
+			<h3 class="education">Institute of Design of Ukraine</h3>
+			<p><i>Course “Design and Layout”</i></p>
+			<h3 class="education">Courses “Contact”</h3>
+			<p><i>Web Designer</i></p>
+		</section>
 	
 	
 	</div>
