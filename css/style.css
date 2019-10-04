@@ -23,7 +23,6 @@ body {
 	max-width: 1024px;
 	min-width: 320px;
 	width: 960px;
-	/* height: 100%; */
 	margin: 0 auto;
 	padding: 15px;
 	background-color: #fff;
@@ -37,7 +36,10 @@ body {
 	/* border: 1px solid #000; */
 }
 
-.section-h2 
+.section-h2 {
+	margin-bottom: 15px;
+	border-bottom: 1px solid #ccc;
+}
 
 /* hero */
 
@@ -79,15 +81,12 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* margin: 20px 0; */
-	/* padding-bottom: 40px; */
-	border-bottom: 1px solid #ccc;
 }
 
 .social {
 	display: flex;
 	justify-content: space-between;
-	width: 50%;
+	width: 60%;
 	padding: 0;
 	list-style-type: none;
 }
@@ -108,3 +107,9 @@ body {
 }
 
 /* Goal */
+.blockquote {
+	margin-top: 20px;
+	padding-left: 20px;
+	color: darkgrey;
+	border-left: 4px solid #ccc;
+}
