@@ -113,3 +113,9 @@ body {
 	color: darkgrey;
 	border-left: 4px solid #ccc;
 }
+
+/* Skills */
+.skills-list {
+	padding-left: 16px;
+	list-style-position: inside;
+}
